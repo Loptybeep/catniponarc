@@ -24,7 +24,7 @@ window.CATNIP_CONFIG = {
   CATNIP_DEXSCREENER_URL: "REPLACE_ME_CATNIP_DEXSCREENER_URL", // price chart
 
   /* --- Socials (placeholders - fill in when live) --- */
-  CATNIP_X_URL:        "REPLACE_ME_CATNIP_X_URL",
-  CATNIP_TELEGRAM_URL: "REPLACE_ME_CATNIP_TELEGRAM_URL",
+  CATNIP_X_URL:        "https://x.com/catniponarc",
+  CATNIP_TELEGRAM_URL: "https://t.me/catniponarc",
   CATNIP_DISCORD_URL:  "REPLACE_ME_CATNIP_DISCORD_URL"
 };
